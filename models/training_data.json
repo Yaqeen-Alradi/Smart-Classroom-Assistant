@@ -1,0 +1,18 @@
+{
+  "questions": [
+    "What is an array?",
+    "How do you implement a loop?",
+    "What is a matrix?",
+    "Explain variance calculation",
+    "What is image segmentation?",
+    "How does object detection work?"
+  ],
+  "topics": [
+    "Programming",
+    "Programming",
+    "Math",
+    "Math",
+    "Computer Vision",
+    "Computer Vision"
+  ]
+}

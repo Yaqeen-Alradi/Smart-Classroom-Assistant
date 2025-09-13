@@ -1,0 +1,10 @@
+opencv-python
+face_recognition
+fer
+SpeechRecognition
+scikit-learn
+transformers
+torch
+pandas
+moviepy==1.0.3
+tensorflow==2.11
