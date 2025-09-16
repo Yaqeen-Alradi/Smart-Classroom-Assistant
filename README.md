@@ -57,5 +57,3 @@ smart-classroom-assistant/
 - tensorflow==2.11
 
 ---
-
-Created with Salma Essam
